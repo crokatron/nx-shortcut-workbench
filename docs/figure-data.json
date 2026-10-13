@@ -1,0 +1,75 @@
+[
+  {
+    "boxes": [
+      {
+        "h": 44,
+        "selector": "input[aria-label=\"Search all commands\"]",
+        "text": "Try Extrude, then inspect the exact command identifier.",
+        "title": "Search the command catalogue",
+        "w": 1486.921875,
+        "x": 56.234375,
+        "y": 193
+      },
+      {
+        "h": 42,
+        "selector": "[role=\"tablist\"]",
+        "text": "Keyboard map, keycap printing, macropad export and side launcher are separate views.",
+        "title": "Choose the output workflow",
+        "w": 586.96875,
+        "x": 20,
+        "y": 89
+      },
+      {
+        "h": 558.625,
+        "selector": "table",
+        "text": "Similar names may represent different commands or modules. Import a role before editing assignments.",
+        "title": "Compare matching commands",
+        "w": 1739,
+        "x": 316,
+        "y": 300
+      }
+    ],
+    "height": 1408,
+    "width": 2055,
+    "title": "Actual tool · controls at a glance",
+    "caption": "Actual application screenshot. Numbered boxes point to the controls described below. ",
+    "key": "nx-shortcuts"
+  },
+  {
+    "boxes": [
+      {
+        "h": 52,
+        "selector": "#command",
+        "text": "Use the intended command, not just a similar name.",
+        "title": "Choose the command",
+        "w": 260,
+        "x": 318,
+        "y": 515.515625
+      },
+      {
+        "h": 54,
+        "selector": "#key",
+        "text": "Ctrl+K is already used here. Conflicting assignments are rejected.",
+        "title": "Try an assignment",
+        "w": 260,
+        "x": 318,
+        "y": 606.515625
+      },
+      {
+        "h": 425.125,
+        "selector": "#scene",
+        "text": "The new key appears in the example; your NX session is untouched.",
+        "title": "Review the dummy role",
+        "w": 606.90625,
+        "x": 612,
+        "y": 461.515625
+      }
+    ],
+    "height": 1408,
+    "width": 2055,
+    "key": "simulation",
+    "title": "Try the working offline example",
+    "caption": "Screenshot of this project’s interactive demo. Side-by-side services are explicitly simulated.",
+    "cropHeight": 927.640625
+  }
+]

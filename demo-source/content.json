@@ -1,0 +1,64 @@
+{
+  "slug": "nx-shortcut-workbench",
+  "title": "NX Shortcut Workbench",
+  "summary": "Browse an NX command catalogue, inspect command identifiers and work with shortcut assignments from an imported role. Additional views help arrange keyboard references, keycap printing, macropad output and a side launcher. Editing here does not automatically change the active Siemens NX session.",
+  "features": [
+    [
+      "Search and categories",
+      "Find commands, filter by installed-module grouping and show assignments or UI controls.",
+      "Workbench views"
+    ],
+    [
+      "Role import/export",
+      "Import an .mtx role before editing assignments; export the resulting role for NX.",
+      "Workbench views"
+    ],
+    [
+      "Draft and undo",
+      "Save an editing draft and undo changes in the workbench.",
+      "Workbench views"
+    ],
+    [
+      "Keyboard Map",
+      "Review assignments spatially on a keyboard.",
+      "Workbench views"
+    ],
+    [
+      "Keycap Print and Macropad Export",
+      "Prepare reference/key-label output and supported macro-pad data.",
+      "Workbench views"
+    ],
+    [
+      "Side Launcher and help",
+      "Review launcher options and the documented catalogue sources.",
+      "Workbench views"
+    ]
+  ],
+  "workflows": [
+    [
+      "Find a command",
+      [
+        "Type a name such as Extrude into Search all commands. Review both the displayed label and command identifier: similarly named commands can belong to different workflows.",
+        "Use category and installed-module filters to narrow results. Include UI controls only when you intend to inspect those entries too.",
+        "Open a command’s details before assigning it. Catalogue presence does not prove that your NX installation licences that command."
+      ]
+    ],
+    [
+      "Edit a role without losing the original",
+      [
+        "Export or copy your existing NX role first. Choose Import role and select its .mtx file. Assignment editing and Export role remain disabled until a role is available.",
+        "Make one assignment change, review any conflict information and use Undo change if it is not what you intended. Save a draft while working.",
+        "Export the edited role under a new filename, then import/test it through NX’s normal role workflow. Keep the original until you have verified the result."
+      ]
+    ],
+    [
+      "Use the companion views",
+      [
+        "Open Keyboard Map to inspect where assignments sit rather than reviewing only a table.",
+        "Use Keycap Print for physical labels/reference output and Macropad Export for the supported target format. Check the destination device/application requirements before importing it.",
+        "Side Launcher is a separate convenience view; browser output does not itself demonstrate successful command execution inside NX. Read Help and sources for catalogue assumptions."
+      ]
+    ]
+  ],
+  "limits": "The included catalogue references NX 2412. Other versions/modules and macro hardware need testing. Siemens catalogue/icon assets require rights review before public distribution; the repository remains private."
+}
