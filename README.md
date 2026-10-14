@@ -4,7 +4,9 @@
 
 Browse an NX command catalogue, inspect command identifiers and work with shortcut assignments from an imported role. Additional views help arrange keyboard references, keycap printing, macropad output and a side launcher. Editing here does not automatically change the active Siemens NX session.
 
-**Private preview · not published.**
+[Publication checks and remaining limits](docs/PUBLICATION.md)
+
+**Public source preview · MIT for original contributions.**
 
 [Open the visual manual](docs/USER-MANUAL.md) · [Download the self-contained demo](demo.html) · [Release notes](CHANGELOG.md)
 
@@ -63,7 +65,7 @@ The demo has no prerequisites; the real tool may need the services described in 
 
 ## Current boundaries
 
-The included catalogue references NX 2412. Other versions/modules and macro hardware need testing. Siemens catalogue/icon assets require rights review before public distribution; the repository remains private.
+The included catalogue references NX 2412. Other versions/modules and macro hardware need testing. Siemens catalogue/icon assets retain their original rights and are not covered by the root MIT licence. This project is independent of Siemens; no additional rights to vendor assets are granted.
 
 ## Licence and sharing
 

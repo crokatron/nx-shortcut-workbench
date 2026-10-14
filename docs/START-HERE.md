@@ -10,6 +10,6 @@ Find commands, assign and check shortcut conflicts, and prepare role/macro-pad e
 
 **Keep your work safe:** Keep the original .mtx, the edited export and any workbench draft separately. Browser drafts can disappear when site data is cleared. Role files and macro-pad exports are different deliverables.
 
-**Next maintainer action:** Round-trip a copied role and verify command IDs/conflicts in the intended NX version and modules. Test macro-pad output on its actual firmware; keep existing roles recoverable and the repository private pending asset review.
+**Next maintainer action:** Round-trip a copied role and verify command IDs/conflicts in the intended NX version and modules. Test macro-pad output on its actual firmware; keep existing roles recoverable and retain vendor attribution and rights notices.
 
-**Status:** private upload verified on 14 October 2026. These guides accompany the private source package. Live runtime, data backups and full recovery were not retested. Public release needs separate approval.
+**Status:** private upload verified on 14 October 2026. These guides accompany the source package. Live runtime, data backups and full recovery were not retested. Public sharing was authorised on 14 October 2026; the NAS backup remains private.

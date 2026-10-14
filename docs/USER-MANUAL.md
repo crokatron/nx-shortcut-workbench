@@ -56,6 +56,6 @@ Keep the original .mtx, the edited export and any workbench draft separately. Br
 
 ## What this manual does not promise
 
-The included catalogue references NX 2412. Other versions/modules and macro hardware need testing. Siemens catalogue/icon assets require rights review before public distribution; the repository remains private.
+The included catalogue references NX 2412. Other versions/modules and macro hardware need testing. Siemens catalogue/icon assets retain their original rights and are not covered by the root MIT licence. This project is independent of Siemens; no additional rights to vendor assets are granted.
 
 Screenshots show the actual application where captured. The offline demo is a deliberately smaller simulation and identifies its dummy services. It never controls devices, sends notifications, uploads files or launches printing.

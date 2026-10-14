@@ -53,7 +53,7 @@ Git preserves reviewed source and documentation. It does not copy browser storag
 
 Before these documentation edits on 14 October 2026, this package was clean on branch `main` at `768daa9e214e4e60827af319b8e481f54ec9bf39` and its private upload was verified. All 1 manifest-listed source entries matched their stored checksums before editing. The upload follow-up has completed all 17 repositories and is paused; it does not run this tool or back up its live data.
 
-These handover pages and README links accompany the private source package. Preserve them when continuing; stage only reviewed changes. Recheck current `git status --short --branch` and `git diff` before starting. No project-specific background schedule was inspected or changed in this documentation pass. Any service schedules in older notes are historical claims to verify in the actual deployment.
+These handover pages and README links accompany the source package. Preserve them when continuing; stage only reviewed changes. Recheck current `git status --short --branch` and `git diff` before starting. No project-specific background schedule was inspected or changed in this documentation pass. Any service schedules in older notes are historical claims to verify in the actual deployment.
 
 Earlier package checks and limits are recorded in [VALIDATION.md](../VALIDATION.md). This handover adds documentation/link/whitespace/secret and source-preservation checks only. No current NAS release, real hardware state, fresh installation, complete data restoration or offsite-backup freshness was verified here.
 
@@ -66,9 +66,9 @@ Earlier package checks and limits are recorded in [VALIDATION.md](../VALIDATION.
 
 ## Known limits and next work
 
-The included catalogue references NX 2412. Other versions/modules and macro hardware need testing. Siemens catalogue/icon assets require rights review before public distribution; the repository remains private.
+The included catalogue references NX 2412. Other versions/modules and macro hardware need testing. Siemens catalogue/icon assets retain their original rights and are not covered by the root MIT licence. This project is independent of Siemens; no additional rights to vendor assets are granted.
 
-**Priority:** Round-trip a copied role and verify command IDs/conflicts in the intended NX version and modules. Test macro-pad output on its actual firmware; keep existing roles recoverable and the repository private pending asset review.
+**Priority:** Round-trip a copied role and verify command IDs/conflicts in the intended NX version and modules. Test macro-pad output on its actual firmware; keep existing roles recoverable and retain vendor attribution and rights notices.
 
 Common symptoms to check for this tool:
 
