@@ -1,5 +1,7 @@
 # NX Shortcut Workbench
 
+**Maintaining this project? [Start here](docs/START-HERE.md) · [Detailed handover](docs/HANDOVER.md)**
+
 Browse an NX command catalogue, inspect command identifiers and work with shortcut assignments from an imported role. Additional views help arrange keyboard references, keycap printing, macropad output and a side launcher. Editing here does not automatically change the active Siemens NX session.
 
 **Private preview · not published.**
@@ -12,7 +14,7 @@ Download `demo.html` using GitHub’s Download raw file control, then open it in
 
 ### Actual tool · controls at a glance
 
-Actual application screenshot. Numbered boxes point to the controls described below. 
+Actual application screenshot. Numbered boxes point to the controls described below.
 
 ![NX Shortcut Workbench — numbered controls](docs/images/guide-1.jpg)
 
